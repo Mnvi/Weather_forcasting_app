@@ -8,7 +8,7 @@ WeatherForecast is a simple weather forecasting app that provides current weathe
 ## Features
 
 - **City-based Forecast:** Type the name of a city to get the current weather information.
-- **Temperature:** Display the current temperature in Celsius or Fahrenheit.
+- **Temperature:** Display the current temperature in Celsius.
 - **Additional Details:** Show additional details such as humidity, wind speed, and weather description.
 
 ## Demo
